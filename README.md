@@ -13,7 +13,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Java+Springboot+Vue的房屋维修系统060
+## 基于Java+Springboot+Vue的房屋维修系统(源代码+数据库+14000字论文)060
 
 ## 一、系统介绍
 本系统前后端分离
